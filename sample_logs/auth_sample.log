@@ -1,0 +1,6 @@
+Oct 13 10:15:30 ubuntu sshd[1201]: Failed password for root from 192.168.1.50 port 52311 ssh2
+Oct 13 10:15:32 ubuntu sshd[1201]: Failed password for root from 192.168.1.50 port 52312 ssh2
+Oct 13 10:15:34 ubuntu sshd[1203]: Failed password for invalid user admin from 192.168.1.50 port 52315 ssh2
+Oct 13 10:16:01 ubuntu sshd[1210]: Accepted password for mauri from 192.168.1.20 port 40022 ssh2
+Oct 13 10:17:45 ubuntu CRON[1250]: pam_unix(cron:session): session opened for user root
+Oct 13 10:18:10 ubuntu sshd[1260]: Failed password for ubuntu from 10.0.0.7 port 60001 ssh2
